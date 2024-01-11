@@ -2,12 +2,15 @@ Welcome to Abel Battery Data Viewer !
 
 This app is only used for viewing data for your own battery-backup/ inverter/ solar system. 
 
-Therefor there are no private info that you enter into the app, as well as no personal info that I save.
+This app uses Firebase Authentication, that means you will need to create an account with your email and a password. 
+This is only to personalize your app so that you only see battery information that is relevant to you.
+No personal data is shared with anyone.
 
-The only things that I save on a database is your username you create to login, it can be any username (so it is not private info such as a cellphone number or email),
-your password that you create which is encrypted on the database so I can not see your password.
+If you do not want to provide your primary email, then just create a new one. But you have to provide a valid email for this app to work.
+If you do not want to do that, then do not use this app.
 
-But again, this app is only to view your battery info, you can not send info back to your system. So no one can hack you and change settings on you battery back or inverter.
+But again, this app is only to view your battery info, you can not send info back to your system. 
+So no one can get access to your account and change settings on you battery back or inverter.
 
 If you have any doubts or questions, contact me on email.
 
